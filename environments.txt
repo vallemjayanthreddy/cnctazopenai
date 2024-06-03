@@ -1,0 +1,4 @@
+C:\Users\Vallem Jayanth Reddy\anaconda3\envs\raaaaggg
+C:\Users\Vallem Jayanth Reddy\anaconda3\envs\rag2.0
+C:\Users\Vallem Jayanth Reddy\anaconda3\envs\ragimpl
+C:\Users\Vallem Jayanth Reddy\anaconda3\envs\myenv

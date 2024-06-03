@@ -5,10 +5,10 @@ import openai
 deployment_name = "test-gpt-jay"
 openai.api_type = "azure"
 #openai.api_key = os.getenv("OPENAI_API_KEY")
-openai.api_key ="d65ae29b824e4b9e84000f40150fae59"
+openai.api_key ="Your key"
 #openai.api_base = os.getenv("OPENAI_API_BASE")
-openai.api_base = "https://test-azureopenai-jay.openai.azure.com/"
-openai.api_version = "2024-02-01"
+openai.api_base = "Endpoint Url"
+openai.api_version = "Latest version of Azure OpenAI service"
 print(os.getenv("OPENAI_API_KEY"))
 prompt =(
     "Explain what the below SQL query does. Also answer why someone might be interested in this time period, "
